@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>AI powered applications using LLM's APIs and CNNs.<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects<br><br>🌱 I’m currently learning:<br>Advanced AWS Services and generative AI.<br><br>💬 Ask me about:<br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ Fun fact:<br>I love to create applications and software based solutions for businesses.
+🔭 I’m currently working on:<br>AI powered applications using LLM's APIs and CNNs.<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects<br><br>🌱 I’m currently learning:<br>Advanced AWS Services and generative AI.<br><br>💬 Ask me about:<br>JavaScript, React, Nextjs, Node.js, AWS, Azure and any general software development questions.<br><br>⚡ Fun fact:<br>I love to create applications and software based solutions for businesses.
 
 
 ## 🌐 Socials:
