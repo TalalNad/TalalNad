@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏗️ **What I do:** DevOps Engineer. I run cloud infrastructure on AWS as code with Terraform across dev, staging and prod, and Kubernetes (EKS) deployed through GitOps with ArgoCD.
+🏗️ **What I do:** DevOps Engineer. I run cloud infrastructure on AWS as code with Terraform across multiple environments, and Kubernetes (EKS) deployed through GitOps with ArgoCD.
 
 🚀 **Also own:** CI/CD pipelines (GitHub Actions and a self-hosted runner fleet) and observability with Datadog.
 
